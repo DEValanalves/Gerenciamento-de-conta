@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TRn9HNpLq8K8r+x23BDWj6M5/p88bZQkc8NM6+sRZqF1FPSh2h2uBljP971lYYBvLi7EWbzp4/d7sng+M0WVnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alan.alves\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alan.alves\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
