@@ -14,3 +14,19 @@ C:\Users\alan.alves\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
 C:\Users\alan.alves\DIO\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
 C:\Users\alan.alves\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
 C:\Users\alan.alves\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Users\alan.alves\OneDrive - Grupo Açotubo\Documentos\MeusProjetos\Gerenciamento-de-conta\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache

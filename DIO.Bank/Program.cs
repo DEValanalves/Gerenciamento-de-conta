@@ -14,6 +14,7 @@ namespace DIO.Bank
             {
                 switch(opcaoUsuario)
                  {
+
                 case "1":
                 ListarContas();
                 break;

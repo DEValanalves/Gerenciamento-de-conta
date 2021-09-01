@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TRn9HNpLq8K8r+x23BDWj6M5/p88bZQkc8NM6+sRZqF1FPSh2h2uBljP971lYYBvLi7EWbzp4/d7sng+M0WVnA==",
+  "dgSpecHash": "1/mGcS24HVKdASZYmwGKeMTE+xoJYqPZcq7euHFUrehThUyh0l/bTSg8Jh0OG7O/FRb/H5UD3NqGHciGTAa8+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alan.alves\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+  "projectFilePath": "C:\\Users\\alan.alves\\OneDrive - Grupo Açotubo\\Documentos\\MeusProjetos\\Gerenciamento-de-conta\\DIO.Bank\\DIO.Bank.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alan.alves\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
